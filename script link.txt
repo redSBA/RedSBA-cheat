@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/redSBA/RedSBA-cheat/refs/heads/main/cheat.lua'))()
